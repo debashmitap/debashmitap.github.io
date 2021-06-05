@@ -28,6 +28,9 @@ h2 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #046BAD;
+    min-height: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 p {
     font-size: 1.2em;
