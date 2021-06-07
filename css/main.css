@@ -25,10 +25,14 @@ h1 {
     color: #046BAD;
 }
 h2 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #046BAD;
     padding-top: 10px;
+}
+h3 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #046BAD;
 }
 p {
     font-size: 1.2em;
