@@ -11,7 +11,7 @@ I used my *moka* pot to brew some coffee. Now, a moka pot is an indispensable it
 
 ![Moka pot and Illy coffee](images/Moka.jpg)
 <img src="images/Moka.jpg" alt="Moka pot and Illy coffee">
-{% include image.html file="images/Moka.jpg" alt="Moka pot and Illy coffee" caption="Moka pot and Illy coffee" %}
+{% include image.html file="https://github.com/debashmitap/debashmitap.github.io/blob/main/images/Moka.jpg" alt="Moka pot and Illy coffee" caption="Moka pot and Illy coffee" %}
 
 I like to take my coffee with milk. Since, I don't use sugar or any kind of sweetners, it becomes difficult for me to drink black coffee. I like frothing the milk with a battery operated frother, and pour the freshly brewed coffee from the moka pot into a mug. It was not as good as the Cafés, but I wanted to be in my PJs for the whole day. Later in the evening, I worked a bit more, and planned for the next few days before my trip, which is in four days. 
 
