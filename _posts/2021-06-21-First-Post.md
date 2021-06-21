@@ -8,4 +8,4 @@ Hi! From the 21st of June 2021, I'll post a write up about my daily life for 500
 This blog will be my online day to day journal, where I'll talk about the highlights of my day. As a result, I'll have approximately 500 posts.  
 
 <img src="images/20_06_21.jpg"
-     alt="Moka pot and Illy coffee" />
+     alt="Moka pot and Illy coffee">
