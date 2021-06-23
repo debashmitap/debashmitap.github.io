@@ -10,25 +10,27 @@ I spent my afternoon doing a challenge that required me to bake a pie with a bli
 
 The challenge begun with my partner, Renan, blindfolding me. We started to make the pie crust from scratch. He placed my hands on the ingredients and tapped my hands when I poured enough of it. After mixing all the ingredients, I had to knead the dough for 5 minutes, and then came the rolling part, which was the hardest one. I had to rely completely on my sense of touch to roll out the dough as evenly as possible. Since Renan could speak 3 times, he would use it just to let me know if I was rolling the right corner. He would occasionally turn the dough so that I can roll out the uneven parts. I had to roll out two separate doughs for the top and bottom. We coated the aluminium tray with some oil, placed the rolled out dough on the bottom, filled in with the cooked chicken filling, and used the other dough to cover it. Then we brushed the top with some egg wash and Renan scored the dough with a knife. After that we put it inside the oven for half an hour at 200&deg;C.
 
-{% 
-include image.html 
-file="https://debashmitap.github.io/images/blindfold.JPG" 
-alt="Renan and I during the challenge" 
-caption="Renan and I during the challenge" 
-%}
+<p float="left">
+  {% 
+  include image.html 
+  file="https://debashmitap.github.io/images/blindfold.JPG" 
+  alt="Renan and I during the challenge" 
+  caption="Renan and I during the challenge" 
+  %}
 
 
-
-{% 
-include image.html 
-file="https://debashmitap.github.io/images/blindfold-me.JPG" 
-alt="Me with the pie right before putting it inside the oven" 
-caption="Me with the pie right before putting it inside the oven" 
-%}
+  {% 
+  include image.html 
+  file="https://debashmitap.github.io/images/blindfold-me.JPG" 
+  alt="Me with the pie right before putting it inside the oven" 
+  caption="Me with the pie right before putting it inside the oven" 
+  %}
+ </p>
+  
 
 The final product was quite pleasant, however, the top crust was a bit too thick and doughy. I was quite surprised how well it turned out, so I'll share the recipe here so that people can try it with or without a blindfold.
 
-#Ingredients
+Ingredients
 
 1. 300g all purpose flour
 2. 1 tbsp hard butter
@@ -42,7 +44,7 @@ The final product was quite pleasant, however, the top crust was a bit too thick
 10. 50g of ricotta
 11. Half a beaten egg
 
-#Instructions
+Instructions
 
 1. Boil the chicken breast and store the broth to use it in the dough later. Shred the chicken once its cooked.
 2. In a pot, heat up some oil and throw in the chopped garlic and carrots, and cook it for a minute of two in medium flame.
