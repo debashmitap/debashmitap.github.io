@@ -53,3 +53,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+figure {
+    width : 100%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.post-image {
+  width: 100%;
+}
