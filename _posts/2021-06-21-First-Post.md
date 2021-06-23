@@ -10,7 +10,7 @@ I decided to take the longest day of the year kinda slow. I stayed at home, work
 I used my *moka* pot to brew some coffee. Now, a moka pot is an indispensable item in every Italian household. Some even have more than one, just in case. The most common one is from the Bialetti brand named after the founder of moka pot, Alfonso Bialetti. I have the traditional stove top moka. There is science involved in how the moka pot works. The moka has three sections: the bottom section where we pour in the water, the middle section which holds the coffee and has a funnel submerged in the bottom part, and the upper section, which has a funnel through which the brewed coffee comes out. All these chambers are tightly locked to build up pressure inside the moka. Once the water starts boiling, the steam built up inside the bottom section forces the water to go through the funnel, mix with the coffee and finally come out through the upper section. Pretty simple physics, right? 
 
 <center>
-<img src="https://debashmitap.github.io/images/Moka.jpg" caption="Moka pot and illy coffee" width="200" height="150"/>
+<img src="https://debashmitap.github.io/images/Moka.jpg" caption="Moka pot and illy coffee" width="400" />
 </center>
 
 
