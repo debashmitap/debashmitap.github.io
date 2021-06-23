@@ -15,7 +15,7 @@ The challenge begun with my partner, Renan, blindfolding me. We started to make 
 <td>{% 
   include image.html 
   file="https://debashmitap.github.io/images/blindfold.JPG" 
-  style="padding-right"
+  style="padding-right:50px"
   alt="Renan and I during the challenge" 
   caption="Renan and I during the challenge" 
   %}</td>
