@@ -17,6 +17,8 @@ alt="Renan and I during the challenge"
 caption="Renan and I during the challenge" 
 %}
 
+
+
 {% 
 include image.html 
 file="https://debashmitap.github.io/images/blindfold-me.JPG" 
@@ -26,7 +28,7 @@ caption="Me with the pie right before putting it inside the oven"
 
 The final product was quite pleasant, however, the top crust was a bit too thick and doughy. I was quite surprised how well it turned out, so I'll share the recipe here so that people can try it with or without a blindfold.
 
-#H1 Ingredients
+#Ingredients
 
 1. 300g all purpose flour
 2. 1 tbsp hard butter
@@ -40,7 +42,7 @@ The final product was quite pleasant, however, the top crust was a bit too thick
 10. 50g of ricotta
 11. Half a beaten egg
 
-#H1 Instructions
+#Instructions
 
 1. Boil the chicken breast and store the broth to use it in the dough later. Shred the chicken once its cooked.
 2. In a pot, heat up some oil and throw in the chopped garlic and carrots, and cook it for a minute of two in medium flame.
