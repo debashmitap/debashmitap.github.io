@@ -9,5 +9,7 @@ title: Approximately 500 days to become a Dr.
 	  <ul class="posts">
 	 {% for post in category.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
+	 {% endfor %}
 	</ul>
+	{% endfor %}
+
