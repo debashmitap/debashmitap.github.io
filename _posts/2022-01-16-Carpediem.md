@@ -3,7 +3,7 @@ layout: post
 title: "Carpe Diem"
 ---
 
-Let us first talk about the celebrated *pizza napoletana*. Appearing on the list of UNESCO intangible cultural heritage, pizza napoletana has a separate fan base. The pizza dough is made with a flour high in gluten, natural yeast, salt and water. However, the dough made from these four ingredients needs to be fermented from 24-36 hours to reach the optimal bonding of protein molecules. Once the base is ready, the toppings can vary. The most famous one is called Margherita, which was named after Queen Margherita of Savoy. The red sauce spread across the dough can only be made from *pomodorino Vesuviano* or *San Marzano* tomatoes, both of which grows on the volcanic soil of Mount Vesuvius. The cheese used is *mozzarella di bufala campana*, which origintes from the water buffalo of Campania region and has a PDO status. The green colour of the flag is bestowed by using fresh basil leaves. Before going inside the wood fire oven to bake, drizzle some EVO oil. To get the perfect crust, only a wood fire oven needs to be used since the temperature inside reaches above 450°C. 
+Let us first talk about the celebrated *pizza napoletana*. Appearing on the list of UNESCO intangible cultural heritage, pizza napoletana has a separate fan base. The pizza dough is made with a flour high in gluten, natural yeast, salt and water. However, the dough made from these four ingredients needs to be fermented from 24-36 hours to reach the optimal bonding of protein molecules. Once the base is ready, the toppings can vary. The most famous one is called Margherita, which was named after Queen Margherita of Savoy. The red sauce spread across the dough can only be made from *pomodorino Vesuviano* or *San Marzano* tomatoes, both of which grows on the volcanic soil of Mount Vesuvius. The cheese used is *mozzarella di bufala campana*, which origintes from the water buffalo of Campania region and has a PDO status. The green colour of the flag is bestowed by using fresh basil leaves. Before going inside the wood fire oven to bake, drizzle some EVO oil. To get the perfect smoky and slightly blackened crust, only a wood fire oven needs to be used since the temperature inside reaches above 450°C. 
 
 <a href="https://www.carpediem.pizza/en/home-2/">Carpe Diem</a> is around 230km away from the third largest city in Italy and the home of pizza, Naples. Pizzaiolo Emilio Brighigna seized his day by making delicious napoletan styled pizza in Abruzzo. For now, he has successfully opened three branches in this region, and I'll be writing about the one in L'Aquila which opened in 2020. Situated in via XX settembre, I would call this my favourite pizzeria in the city. Carpe diem is featured for 4 years consecutively in the <a href="https://www.50toppizza.it/en/referenza/carpe-diem-diversamente-pizza">50 Top Pizza</a>, which is an website ranking pizzerias around the world. They also managed to earn *Due Spicchi*, a rating invented by Gambero Rosso (an Italain food and wine guide) for pizzerias. The maximum rating handed out is three, and is given to the BOTB in each category. 
 
@@ -28,7 +28,7 @@ alt="Ricordi di Nerano"
 caption="Ricordi di Nerano" 
 %}
 
-Fasr forward to 2022, we decided to order 
+Fasr forward to 2022, after going through 3 months of pizza abstinence, I decided to order a stuffed crust pizza. I wanted something spicy, so I decided on *Diavola* (devil). Diavola is a Margherita along with some spicy salami. Carpe Diem uses *Ventricina*, which is a typical spicy salami from the Abruzzo region. The crust was stuffed with ricotta made from buffalo milk, and that reduces the spiciness induced by the salami. The delivery was fast, probably because it was a weekday and we always order before the restaurant opens. During the weekends, you might have to wait for 3 hours to get the delivery. If you want to enjoy a fresh and hot pizza on a weekend, dine-in might be a better option. 
 
 {% 
 include image.html 
@@ -36,3 +36,6 @@ file="https://debashmitap.github.io/images/carpe/IMG_1997.jpg"
 alt="Diavola" 
 caption="Diavola" 
 %}
+
+
+Every corner of Italy has a random pizzeria or kebab shop, so you won't die out of hunger. However, if you are in L'Aquila, and you are craving for a good pizza, seize the night (they only open for dinner) by having a pizza from Carpe Diem.
