@@ -1,3 +1,14 @@
 name: Debashmita Poddar
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:categories/:title
+
+
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'

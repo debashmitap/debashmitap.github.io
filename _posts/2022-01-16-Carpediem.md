@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Carpe Diem"
+category: "L'Aquila"
 ---
 
 Let us first talk about the celebrated *pizza napoletana*. Appearing on the list of UNESCO's *intangible cultural heritage*, pizza napoletana has a separate fan base. The pizza dough is made with a flour high in gluten, natural yeast, salt and water. However, the dough made from these four ingredients needs to be fermented from 24-36 hours to reach the optimal bonding of protein molecules. Once the base is ready, the toppings can vary. The most famous one is called Margherita, which was named after Queen Margherita of Savoy. The red sauce spread across the dough can only be made from *pomodorino Vesuviano* or *San Marzano* tomatoes, both of which grows on the volcanic soil of Mount Vesuvius. The cheese used is *mozzarella di bufala campana*, which origintes from the water buffalo of Campania region and has a PDO status. The green colour of the flag is bestowed by using fresh basil leaves. Before going inside the wood-fired oven to bake, drizzle some EVO oil. To get the perfect smoky and slightly blackened crust, only a wood-fired oven needs to be used since the temperature inside reaches above 450°C. The pizza needs to cook fast under a high temperature in order to retain its crispness.
