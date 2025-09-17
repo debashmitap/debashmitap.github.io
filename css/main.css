@@ -65,3 +65,14 @@ figure {
 .post-image {
   width: 100%;
 }
+
+.home-info {
+    display: flex; 
+    flex-direction: row;
+}
+
+@media (max-width: 600px) {
+    .home-info {
+        flex-directon: column;
+    }
+}
