@@ -69,10 +69,11 @@ figure {
 .home-info {
     display: flex; 
     flex-direction: row;
+    align-items: center;
 }
 
 @media (max-width: 600px) {
     .home-info {
-        flex-directon: column;
+        flex-direction: column;
     }
 }
